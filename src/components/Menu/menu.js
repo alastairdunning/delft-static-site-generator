@@ -2,6 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { translate } from 'react-translate';
 import { Link } from 'gatsby';
+import { Search } from '../Search/search';
+
 import './menu.css';
 
 const Menu = ({ t, style, language }) => (
@@ -11,6 +13,7 @@ const Menu = ({ t, style, language }) => (
       <li className="main-menu__list-item"><Link to={`/${language}/collections/`} className="main-menu__link">{t('COLLECTIONS')}</Link></li>
       <li className="main-menu__list-item"><Link to={`/${language}/publications/`} className="main-menu__link">{t('PUBLICATIONS')}</Link></li>
       <li className="main-menu__list-item"><Link to={`/${language}/about/`} className="main-menu__link">{t('ABOUT')}</Link></li>
+      <li className="main-menu__list-item"><Link to={`/${language}/search`} className="main-menu__link">{<Search />}</Link></li>
     </ul>
   </nav>
 );
