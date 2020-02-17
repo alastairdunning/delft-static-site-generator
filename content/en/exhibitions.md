@@ -15,7 +15,7 @@ title: "Exhibitions"
 </div>
 <div class="block tint copper cutcorners w-4 h-4 image">
 
-[Rise of a campus](/en/exhibitions/rise-of-a-campus)
+[Rise of a campus](/en/exhibitions/1f05178d-9382-53b9-cd33-86ffd19f0476)
 </div>
 </div>
 
