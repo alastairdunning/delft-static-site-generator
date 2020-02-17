@@ -67,7 +67,7 @@ title: "Digital Collections"
 </div>
 <div class="block purple tint cutcorners w-4 h-4 image">
 
-[Aviodrome](/en/collections/ex-aviodrome)
+[Aviodrome](/en/collections/09876)
 </div>
 
 </div>
